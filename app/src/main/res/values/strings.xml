@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">cooking unit conveter</string>
+    <string-array name="unit_options">
+        <item>Milliliters (ml)</item>
+        <item>Fluid Ounces (fl oz)</item>
+        <item>Grams (g)</item>
+        <item>Cups</item>
+    </string-array>
+
+    <string-array name="conversion_types">
+        <item>Convert from</item>
+        <item>Convert to</item>
+    </string-array>
+
+</resources>
+
